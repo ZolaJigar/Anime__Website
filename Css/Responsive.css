@@ -1,0 +1,54 @@
+@media only screen and (max-width: 1140px)
+{
+    .nav-list{
+        flex-direction: column;
+    }
+
+    .navbar{
+        height: 447px;
+        flex-direction: column;
+    }
+
+    .rightnav{
+        text-align: center;
+        transform: all 1.7% ease-out;
+    }
+
+    #search{
+        width: 100%;
+    }
+
+    .box-main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+
+    .burger{
+        display: block;
+    }
+
+    .h-nav-reps{
+        height: 72px;
+    }
+
+    .paras{
+        padding: 0px;
+    }
+
+    .v-class-reps{
+        opacity: 0;
+    }
+
+    .section{
+        flex-direction: column-reverse;
+    }
+    .text-small{
+        text-align: center;
+    }
+    .text-big{
+    text-align: center;
+    }
+    .buttons{
+        text-align: center;
+    }
+}
